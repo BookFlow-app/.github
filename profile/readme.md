@@ -10,7 +10,7 @@ At Bookflow, we are a passionate group of developers, designers, and library ent
 
 ### Bookflow Web App
 
-![Bookflow Web App](/path/to/screenshot.png)
+![Bookflow Web App](./bookflow.jpeg)
 
 The **Bookflow Web App** is our primary focus at the moment. It's a comprehensive solution designed specifically for college libraries. With features like easy book search, online reservations, fine tracking, and user-friendly admin controls, we aim to simplify the library experience for both students and librarians.
 
